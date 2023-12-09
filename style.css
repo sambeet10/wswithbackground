@@ -1,0 +1,36 @@
+h1{
+    color: rgb(27, 68, 122);
+    font-weight: 900;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-image: url('https://th.bing.com/th/id/OIG.aOfIS5dNNSrOUZll4oBL?pid=ImgGn');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+h2{
+    color: rgb(69, 8, 95);
+}
+.intro{
+    text-align: center;
+    line-height: 45px;
+}
+.query{
+    text-align: center;
+    text-shadow: 0cqmax;
+
+}
+.userdata{
+    text-align: center;
+}
+.platform{
+    text-decoration: solid;
+    text-align: left;
+    text-decoration-color: darkred;
+}
+hr{
+    border-color: black;
+}
